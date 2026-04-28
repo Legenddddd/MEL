@@ -1,9 +1,21 @@
 <div align="center">    
 
 # Evolving and Regularizing Meta-Environment Learner for Fine-Grained Few-Shot Class-Incremental Learning
-[Li-Jun Zhao](https://Legenddddd.github.io/), Zhen-Duo Chen, Yongxin Wang, Xin Luo, and Xin-Shun Xu
+Li-Jun Zhao, Zhen-Duo Chen, Yongxin Wang, Xin Luo, and Xin-Shun Xu
 
 </div>
+
+
+```bibtex
+@inproceedings{
+zhao2026evolving,
+title={Evolving and Regularizing Meta-Environment Learner for Fine-Grained Few-Shot Class-Incremental Learning},
+author={Li-Jun Zhao and Zhen-Duo Chen and Yongxin Wang and Xin Luo and Xin-Shun Xu},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2026},
+url={https://openreview.net/forum?id=AU2eaY2QEu}
+}
+```
 
 ## Dataset Preparation Guidelines
 
